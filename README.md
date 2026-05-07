@@ -21,3 +21,7 @@ Dự án 3: Ổ cắm thông minh
 # 3D 
 <img width="2021" height="1134" alt="z7799424896867_7a7182aa0e2cfce56048d8262b2dda41" src="https://github.com/user-attachments/assets/b86c01a6-4c9e-478c-9586-1c8f57411360" />
 <img width="1311" height="730" alt="z7799424878941_14473d53b08cc4c2a202b547afe09a0a" src="https://github.com/user-attachments/assets/3f37ce2a-513d-4ac9-a63d-42e9c93d694f" />
+
+Dự án 4: Mạch nguồn AC-DC LNK306
+# Schematic 
+<img width="1239" height="655" alt="z7799505148384_e6c00cb3d5f623a18aa96796ea3acfd5" src="https://github.com/user-attachments/assets/f71d1942-24c8-49a6-9e3e-825aa7336c5c" />

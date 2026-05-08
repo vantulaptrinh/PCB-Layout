@@ -2,6 +2,12 @@
 
 
 # Dự án 1: Mạch sạc giao tiếp CAN Bus 
+
+# schematic 
+
+<img width="1518" height="955" alt="z7805208425378_c67c89d63949fc2f9016f1200c3e8093" src="https://github.com/user-attachments/assets/3ae1b04e-ba47-45b8-827a-02e594a73cda" />
+
+
 # PCB-Layout
 
 <img width="2048" height="935" alt="z7799354236190_53a53b1ef975749ab898cc276686364a" src="https://github.com/user-attachments/assets/15df8a9a-8bc3-4aa9-b745-287b01398ea6" />
@@ -13,6 +19,12 @@
 <img width="1831" height="807" alt="z7799354217704_ebb55bdc65728c043a36184bcbab32e3" src="https://github.com/user-attachments/assets/d4349c7d-4467-4084-bf5d-130292ec3a79" />
 
 # Dự án 2: Hệ thống Khóa thông minh cho xe điện
+
+# schematic 
+
+<img width="1629" height="899" alt="z7805230659823_02aa733ff246b8bd4991e1f109419693" src="https://github.com/user-attachments/assets/6200c901-6cb1-46c4-8d01-c8d06da9c2da" />
+
+
 # PCB-Layout
 <img width="904" height="998" alt="z7799367519578_ecdb28547279d6b4e67eb26f0c5e7e21" src="https://github.com/user-attachments/assets/c6bcb592-54e6-49a2-a755-9d39093fddd0" />
 
